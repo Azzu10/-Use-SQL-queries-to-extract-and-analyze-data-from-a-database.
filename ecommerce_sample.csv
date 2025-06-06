@@ -1,0 +1,6 @@
+customer_id,order_date,product_category,product_name,quantity,price,payment_method,region
+101,2025-06-01,Electronics,Smartphone,1,699.99,Credit Card,South
+102,2025-06-02,Clothing,T-shirt,2,19.99,UPI,North
+103,2025-06-02,Home Decor,Cushion,1,25.5,Cash,West
+104,2025-06-03,Electronics,Laptop,1,999.99,Credit Card,East
+105,2025-06-04,Books,Novel,3,9.99,Debit Card,South
